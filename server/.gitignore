@@ -1,0 +1,10 @@
+.env
+/node_modules
+node_modules
+
+
+# .env configuration
+
+# PORT
+# MONGO_DB
+# JWT_TOKEN
